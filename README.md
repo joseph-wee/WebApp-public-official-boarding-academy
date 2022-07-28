@@ -19,7 +19,7 @@
 
 # 사용법
 ```
-yarn add
+yarn install or npm i
 yarn dev or npm run dev
 ```
 
