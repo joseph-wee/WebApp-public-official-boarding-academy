@@ -21,6 +21,8 @@
 ```
 yarn install or npm i
 yarn dev or npm run dev
+
+ID: testuser PW: 1234
 ```
 
 # 페이지 및 내용
